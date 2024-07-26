@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<!-- - 🔭 I’m currently working on Web and App Developer --!>
+<!-- - 🔭 I’m currently working on Web and App Developer 
 - 🌱 I’m currently learning App Development 
 - 👯 I’m looking to collaborate on Projects, Roadmaps, Shortcuts
 - 🤔 I’m looking for help with New Project Ideas
