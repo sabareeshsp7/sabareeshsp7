@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br>
 
 <h1 align="center">Hi 👋, I'm Sabareesh</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 Here are some ideas to get you started:
 
