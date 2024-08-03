@@ -75,10 +75,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Not developer but developed my skiils with Stack Tech --!>
 <br>
 
-<h1 align="center">Hi 👋, I'm Sabareesh</h1>
+<!--<h1 align="center">Hi 👋, I'm Sabareesh</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: --!>
 
 <!-- - 🔭 I’m currently working on Web and App Developer 
 - 🌱 I’m currently learning App Development 
