@@ -80,14 +80,14 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-<!-- - 🔭 I’m currently working on Web and App Developer --!>
+<!-- - 🔭 I’m currently working on Web and App Developer 
 - 🌱 I’m currently learning App Development 
 - 👯 I’m looking to collaborate on Projects, Roadmaps, Shortcuts
 - 🤔 I’m looking for help with New Project Ideas
 - 💬 Ask me about ideas
 - 📫 How to reach me: Social Media
 - 😄 Pronouns: He/Them
-- ⚡ Fun fact: Not developer but developed my skiils with Stack Tech
+- ⚡ Fun fact: Not developer but developed my skiils with Stack Tech --!>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabareeshsp7&label=Profile%20views&color=0e75b6&style=flat" alt="sabareeshsp7" /> </p> 
 
