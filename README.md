@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sabareesh <br><br>I'm I am a Full Stack Developer with expertise in front-end and back-end technologies. I build high-performing, scalable applications and prioritize clean, efficient code. I enjoy collaborating with teams, contributing to open-source projects, and continuously learning new skills.</h2>
+<h2 align="center">Hi 👋! My name is Sabareesh <br><br>A Full Stack Developer with expertise in front-end and back-end technologies. I build high-performing, scalable applications and prioritize clean, efficient code. I enjoy collaborating with teams, contributing to open-source projects, and continuously learning new skills.</h2>
 
 
 
