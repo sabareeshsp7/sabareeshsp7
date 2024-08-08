@@ -83,5 +83,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sabareeshsp7/sabareeshsp7/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sabareeshsp7/sabareeshsp7/blob/main/snake.yml" alt="Snake animation" />
 
