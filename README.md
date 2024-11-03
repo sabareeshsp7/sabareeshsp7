@@ -80,8 +80,6 @@
 </div>
 
 
+https://holopin.io/@sabareeshsp7
 
-<br clear="both">
-
-<img src="https://github.com/sabareeshsp7/sabareeshsp7/blob/main/snake.yml" alt="Snake animation" />
-
+ <img src="https://holopin.io/@sabareeshsp7"  />
