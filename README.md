@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋! My name is Sabareesh <br><br>A Full Stack Developer with expertise in front-end and back-end technologies. I build high-performing, scalable applications and prioritize clean, efficient code. I enjoy collaborating with teams, contributing to open-source projects, and continuously learning new skills.</h2>
 
-
+<h3> ------ HacktoberFest 2024 ------ </h3>
+ <img src="https://holopin.me/sabareeshsp7"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -79,5 +80,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabareeshsp7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
- <img src="https://holopin.me/sabareeshsp7"  />
