@@ -80,6 +80,4 @@
 </div>
 
 
-https://holopin.io/@sabareeshsp7
-
- <img src="https://holopin.io/@sabareeshsp7"  />
+ <img src="https://holopin.me/sabareeshsp7"  />
